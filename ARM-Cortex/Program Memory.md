@@ -1,0 +1,1 @@
+You can **read the instruction opcode** using the program memory address in Cortex-M4. Since the Cortex-M4 follows the **Von Neumann architecture** for instruction and data access, Flash memory (where program code is stored) can be accessed like normal memory.
